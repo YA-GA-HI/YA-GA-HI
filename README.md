@@ -2,12 +2,8 @@
 
 # Hello, Guys! I'm Zenku <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
-
-YA-GA-HI
 ![](https://komarev.com/ghpvc/?username=Ya-GA-HI&color=2bbc8a)
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/adnane-louardi-dev)
-
+[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/zenku)
 ![Visits Badge](https://img.shields.io/github/followers/adnane-louardi-dev?logoColor=blue&style=social)
 
 - 👋 Hi, I’m @YA-GA-HI
