@@ -4,9 +4,9 @@
 
 ![](https://komarev.com/ghpvc/?username=Ya-GA-HI&color=2bbc8a)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=2bbc8a&color=black)](https://codepen.io/zenku)
-![Visits Badge](https://img.shields.io/github/followers/YA-GA-HI?logoColor=2bbc8a&style=social&color=black)
-![Twitter Badge](https://img.shields.io/github/followers/YA-GA-HI?logoColor=2bbc8a&style=social)(https://twitter.com/KariyaKariya8)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=Twitter&logoColor=2bbc8a&color=black)](https://twitter.com/KariyaKariya8)
+![Visits Badge](https://img.shields.io/github/followers/YA-GA-HI?logoColor=white&style=social&color=black)
+
 - 👋 Hi, I’m @YA-GA-HI
 - 👀 I’m interested in Programming , Arts , also in Mathematics
 - 🌱 I’m currently learning c++ with data structure
