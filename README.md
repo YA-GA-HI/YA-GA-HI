@@ -10,6 +10,8 @@
 
 - 👋 My name is Zakariaa Enajjachi
 - 👀 I’m interested in Programming , Arts , also in Mathematics.
+- I code in Python,Js,Php,C++,Css.
+- I use Laravel,Vue,Sass,Pug,Tailwind,Bootstrap.
 - 🌱 I’m currently learning c++ with data structure.
 - 💞️ I’m looking to collaborate on a Laravel or a Vue project
 - 📫 How to reach me this is my gmail kariyakariya399@gmail.com or in the links above.
