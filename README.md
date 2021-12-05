@@ -1,5 +1,7 @@
 [![Header](https://github.com/YA-GA-HI/YA-GA-HI/blob/main/header.png "Header")](https://some-url.dev/)
 
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 - 👋 Hi, I’m @YA-GA-HI
 - 👀 I’m interested in Programming , Arts , also in Mathematics
 - 🌱 I’m currently learning c++ with data structure
