@@ -6,7 +6,9 @@
 
 YA-GA-HI
 ![](https://komarev.com/ghpvc/?username=Ya-GA-HI&color=2bbc8a)
-![](https://img.shields.io/badge/Views-Left word-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/adnane-louardi-dev)
+
+![Visits Badge](https://img.shields.io/github/followers/adnane-louardi-dev?logoColor=blue&style=social)
 
 - 👋 Hi, I’m @YA-GA-HI
 - 👀 I’m interested in Programming , Arts , also in Mathematics
