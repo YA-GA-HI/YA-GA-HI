@@ -27,7 +27,7 @@
 <a href="https://twitter.com/_zenku__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_zenku__" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/zakariaa-enajjachi-9095b61b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zakariaa-enajjachi-9095b61b7" height="30" width="40" /></a>
 <a href="https://instagram.com/_zenku__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_zenku__" height="30" width="40" /></a>
-<a href="https://hashnode.com/zenku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="zenku" height="30" width="40" /></a>
+<a href="https://hashnode.com/@Zenku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="zenku" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
