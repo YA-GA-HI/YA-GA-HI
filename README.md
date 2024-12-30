@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Zenku</h1>
 <h3 align="center">Creative Self-taught Programmer. #laravel-- #vue-- #python. Trying To Add a Value To The Tech World..</h3>
-<h3 align="center">This is my old account (<a href="https://github.com/YA-GA-HI/">current one</a>).</h3>
+<h3 align="center">This is my old account (<a href="https://github.com/zeeenku/">current one</a>).</h3>
 
 <p  align="left"> <img src="https://komarev.com/ghpvc/?username=ya-ga-hi&label=Profile%20views&color=0e75b6&style=flat" alt="ya-ga-hi" /> </p>
 
